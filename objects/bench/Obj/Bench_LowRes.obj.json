@@ -1,0 +1,15 @@
+{
+  "created_at": "2024-12-18T00:33:59.679981",
+  "version": "0.1",
+  "mtllibs": [
+    "Bench_LowRes.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "LoD_0SG",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 410880
+    }
+  ]
+}

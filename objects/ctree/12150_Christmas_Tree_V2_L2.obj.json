@@ -1,0 +1,57 @@
+{
+  "created_at": "2024-12-18T01:28:54.364408",
+  "version": "0.1",
+  "mtllibs": [
+    "12150_Christmas_Tree_V2_L2.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "cloth",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 293376
+    },
+    {
+      "material": "red",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 293376,
+      "byte_length": 2359296
+    },
+    {
+      "material": "loop",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2652672,
+      "byte_length": 827904
+    },
+    {
+      "material": "ball_metall",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3480576,
+      "byte_length": 2878848
+    },
+    {
+      "material": "pink",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6359424,
+      "byte_length": 1474560
+    },
+    {
+      "material": "blue",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7833984,
+      "byte_length": 1916928
+    },
+    {
+      "material": "yellow",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9750912,
+      "byte_length": 1474560
+    },
+    {
+      "material": "Christmas_Tree",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 11225472,
+      "byte_length": 6700800
+    }
+  ]
+}

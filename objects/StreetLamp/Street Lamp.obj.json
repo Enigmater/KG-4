@@ -1,0 +1,33 @@
+{
+  "created_at": "2024-12-18T01:08:09.688629",
+  "version": "0.1",
+  "mtllibs": [
+    "./Street_Lamp.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "default",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 10752
+    },
+    {
+      "material": "Glass",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 10752,
+      "byte_length": 79488
+    },
+    {
+      "material": "Plastic_Matte",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 90240,
+      "byte_length": 97344
+    },
+    {
+      "material": "Metal",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 187584,
+      "byte_length": 27264
+    }
+  ]
+}
